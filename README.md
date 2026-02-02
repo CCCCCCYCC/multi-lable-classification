@@ -9,7 +9,7 @@ This repo holds code for A multi-label dataset for China’s agricultural and ru
 ### 2.train/test--for Machine Learning model
 `python RSMLR-main1/train.py ` 
 
-### 3.download image for google earth 
+### 3.download images from google earth 
 #### please use google_map_patch_downloader.py
 
 # Data Availability
