@@ -11,3 +11,6 @@ This repo holds code for A multi-label dataset for China’s agricultural and ru
 
 ### 3.download image for google earth 
 #### please use google_map_patch_downloader.py
+
+# Data Availability
+All data from this paper are publicly available on the figshare platform via https://doi.org/10.6084/m9.figshare.30128272.
