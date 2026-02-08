@@ -1,5 +1,5 @@
 # multi-lable-classification
-This repo holds code for A multi-label dataset for China’s agricultural and rural scenes classification from VHR satellite imagery
+This repo holds code for A multi-label dataset for China’s agricultural and rural scenes classification from VHR satellite imagery  
 Includes multi-label classification code for ResNet, DenseNet, VGGNet, and others.
 ## Usage
 
